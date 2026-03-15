@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Zied 👋
 
-<!--
-**zied3332/zied3332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student in Tunisia
+Full Stack Developer & Data Automation Freelancer
 
-Here are some ideas to get you started:
+💻 Technologies
+Python
+Java Spring Boot
+React
+Node.js
+SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+Web Scraping Automation
+Full Stack Web Applications
+Data Processing Tools
+
+💼 Freelancing
+Top Rated Upwork freelancer specializing in web scraping and data automation.
