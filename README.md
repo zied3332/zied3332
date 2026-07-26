@@ -1,44 +1,42 @@
-# Hi, I'm Zied 👋
+# Hi, I'm Zied
 
-🎓 Computer Science Student in Tunisia  
-💻 Full Stack Developer & Data Automation Freelancer  
+Computer Engineering Student at Esprit School of Engineering (Tunisia).
 
----
+Full-Stack Developer focused on building modern web applications with React, NestJS, PostgreSQL, and TypeScript.
 
-## 💻 Technologies
-
-- Python  
-- Java Spring Boot  
-- React  
-- Node.js  
-- SQL  
+I enjoy designing scalable backend systems, developing intuitive user interfaces, and creating automation tools with Python.
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-- Web Scraping Automation  
-- Full Stack Web Applications  
-- Data Processing Tools  
-
----
-
-## 💼 Freelancing
-
-Top Rated Upwork freelancer specializing in web scraping and data automation.
-
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01483d340b2a44c72d)
+- React
+- TypeScript
+- NestJS
+- PostgreSQL
+- Prisma
+- Python
+- Docker
+- Git
 
 ---
 
-## 📈 Goals
+## Featured Projects
 
-- Improve in AI & Data Science  
-- Build impactful full-stack applications  
-- Scale freelancing to higher income levels  
+- Waterfall Festival Platform
+- Intelligent Employee Management Platform
+- Python Automation & Web Scraping Tools
 
 ---
 
-## 📫 Contact
+## Current Focus
 
-Feel free to reach out for collaboration or freelance work 🚀
+- Becoming a better Full-Stack Developer
+- Building production-quality software
+- Contributing to meaningful real-world projects
+
+---
+
+## Contact
+
+Feel free to reach out for collaboration or software development opportunities.
