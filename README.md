@@ -1,4 +1,4 @@
-# Hi, I'm Zied
+# Hi, I'm Zied Alimi
 
 Computer Engineering Student at Esprit School of Engineering (Tunisia).
 
