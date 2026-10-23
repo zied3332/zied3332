@@ -20,23 +20,8 @@ I enjoy designing scalable backend systems, developing intuitive user interfaces
 - Git
 
 ---
-
-## Featured Projects
-
-- Waterfall Festival Platform
-- Intelligent Employee Management Platform
-- Python Automation & Web Scraping Tools
-
----
-
 ## Current Focus
 
 - Becoming a better Full-Stack Developer
 - Building production-quality software
 - Contributing to meaningful real-world projects
-
----
-
-## Contact
-
-Feel free to reach out for collaboration or software development opportunities.
