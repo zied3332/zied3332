@@ -1,27 +1,20 @@
-# Hi, I'm Zied Alimi
+# Hi, I'm Zied Alimi 
 
-Computer Engineering Student at Esprit School of Engineering (Tunisia).
+ Final-Year Computer Engineering Student at **ESPRIT School of Engineering, Tunisia** 🇹🇳
 
-Full-Stack Developer focused on building modern web applications with React, NestJS, PostgreSQL, and TypeScript.
+ **Full-Stack Developer** passionate about software engineering, scalable systems, and building real-world applications.
 
-I enjoy designing scalable backend systems, developing intuitive user interfaces, and creating automation tools with Python.
+I work primarily with **React, TypeScript, NestJS, PostgreSQL, and Python**, developing modern web applications, backend APIs, and automation tools.
 
----
+###  What I'm Working On
+- Building and improving production-ready full-stack applications.
+- Exploring **AI/ML, DevOps, and System Design**.
+- Strengthening my knowledge of **Operating Systems, Computer Architecture, and Backend Engineering**.
 
-## Tech Stack
+###  Tech Stack
+**Languages:** TypeScript · JavaScript · Python · Java · C/C++ · PHP
 
-- React
-- TypeScript
-- NestJS
-- PostgreSQL
-- Prisma
-- Python
-- Docker
-- Git
+**Technologies:** React · NestJS · Django · PostgreSQL · Prisma · Docker · Git
 
----
-## Current Focus
-
-- Becoming a better Full-Stack Developer
-- Building production-quality software
-- Contributing to meaningful real-world projects
+###  My Goal
+To become a highly skilled software engineer capable of designing and building complex, reliable, and scalable systems.
